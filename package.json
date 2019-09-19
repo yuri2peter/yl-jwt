@@ -1,0 +1,23 @@
+{
+  "name": "yl-jwt",
+  "version": "1.0.0",
+  "description": "Easy jwt tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuri2peter/yl-jwt.git"
+  },
+  "author": "yuri2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuri2peter/yl-jwt/issues"
+  },
+  "homepage": "https://github.com/yuri2peter/yl-jwt#readme",
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "mocha": "^6.2.0"
+  }
+}
