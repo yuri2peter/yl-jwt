@@ -4,7 +4,7 @@ Simplified version of JWT.
 
 # Usage
 
-```
+```javascript
 const { jwtResolve, jwtGenerate } = require('yl-jwt');
 
 const data = 'test'; // any data that can be serialized
