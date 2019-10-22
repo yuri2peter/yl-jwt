@@ -1,6 +1,6 @@
 {
   "name": "yl-jwt",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Easy jwt tools.",
   "main": "index.js",
   "scripts": {

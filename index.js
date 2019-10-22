@@ -7,8 +7,6 @@ function hash16(text) {
   return crypto.createHmac('md5', 'yl-jwt').update(text).digest('hex').substring(0, 16);  
 }
 
-console.log(hash16('  j7j'))
-
 // 加密
 function genSign(src, key) {
   let sign = '';
