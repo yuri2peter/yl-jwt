@@ -2,6 +2,13 @@
 
 Simplified version of JWT.
 
+# Deprecated
+
+This project is not longer maintained.
+Please take a look at [easy-jwt](https://github.com/yuri2peter/easy-jwt/).
+
+easy-oss
+
 # Usage
 
 ```javascript
